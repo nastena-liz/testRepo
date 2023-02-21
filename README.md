@@ -1,4 +1,5 @@
 #testRepo
 New text
 
-Some new text
+строка для мастера
+fix2 changes
