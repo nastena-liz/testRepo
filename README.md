@@ -1,4 +1,4 @@
 #testRepo
 New text
 
-main branch. remember it!
+fix 3. параллельно fix
